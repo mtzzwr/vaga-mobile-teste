@@ -1,16 +1,7 @@
-# pokedex_flutter
+# Entrega do Teste Desenvolvedor Mobile
 
-A new Flutter project.
+Oĺa, estou realizando a entrega do Teste. O App foi desenvolvido em Flutter no padrão MVC.
 
-## Getting Started
+Obs: Por favor, antes de rodar o App, usar o comando 'flutter pub get' no projeto para fazer o download das dependências e não ocorrer nenhum problema.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Obrigado!
